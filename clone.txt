@@ -1,3 +1,2 @@
 clone demo
 sencond
-third
